@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dziesmas on Odi et Amo teksti</title>
+    <link>//localhost:1313/dziesmas/</link>
+    <description>Recent content in Dziesmas on Odi et Amo teksti</description>
+    <generator>Hugo</generator>
+    <language>lv</language>
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/dziesmas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Odi et Amo</title>
+      <link>//localhost:1313/dziesmas/odi_et_amo/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dziesmas/odi_et_amo/</guid>
+      <description>&lt;p&gt;Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior&lt;/p&gt;&#xA;&lt;p&gt;I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented&lt;/p&gt;&#xA;&lt;p&gt;Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior&lt;/p&gt;&#xA;&lt;p&gt;I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fiat Lux</title>
+      <link>//localhost:1313/dziesmas/fiat_lux/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dziesmas/fiat_lux/</guid>
+      <description>&lt;h4 id=&#34;genesis-11---13&#34;&gt;Genesis 1:1 - 1:3&lt;/h4&gt;&#xA;&lt;p&gt;😢&lt;/p&gt;&#xA;&lt;p&gt;Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior&lt;/p&gt;&#xA;&lt;p&gt;I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Eden</title>
+      <link>//localhost:1313/dziesmas/eden/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/dziesmas/eden/</guid>
+      <description>&lt;p&gt;A&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

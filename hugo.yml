@@ -1,31 +1,17 @@
 baseURL: ''
 title: 'Odi et Amo teksti'
 pagination.pagerSize: 5
-theme: ['PaperMod']
-
-enableEmoji: true
+theme: ['smol']
 
 defaultContentLanguage: 'lv'
 
-
-languages:
-  lv:
-    languageName: 'Latviešu'
-    weight: 1
-
 params:
-  social: true
-  env: production
-  description: 'Odi et Amo dziesmu tekstu apkopojums latviešu valodā'
-  defaultTheme: auto
-  ShowBreadCrumbs: true
+  subtitle: 'Odi et Amo dziesmu tekstu apkopojums latviešu valodā'
+  dateFmt: "02.01.2006"
 
-  profileMode:
-    enabled: false
-
-  assets:
-    favicon: '/favicon.ico'
-    favicon16x16: ''
-    favicon32x32: ''
-    apple_touch_icon: ''
-    safari_pinned_tab: ''
+menu:
+  main:
+    - identifier: 'dziesmas'
+      name: 'Dziesmas'
+      url: '/dziesmas/'
+      weight: 1
