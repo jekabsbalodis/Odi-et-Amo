@@ -6,22 +6,12 @@ weight = 1
 date = '2024-10-16'
 +++
 
-Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior
+> I Hate and Love
 
-I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented
+> [Wikipedia article](https://en.wikipedia.org/wiki/Catullus_85 "Catullus 85")\.
 
-Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior
+|Latin|English|Latviski|
+|-----|-------|--------|
+|Odi et amo, quare id faciam, fortasse requiris.|I hate and I love. Why I do this, perhaps you ask.|Es ienīstu un es mīlu. Varbūt jūs jautājat, kāpēc es to daru?|
+|Nescio, sed fieri, sentio et excrucior|I know not, but I feel it happening and I am tortured.|Es to nezinu, bet es jūtu, ka tas notiek, un es esmu nomocīts.|
 
-I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented
-
-Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior
-
-I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented
-
-Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior
-
-I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented
-
-Odi et amo, quare id faciam, fortasserequiris. Nescio, sed fieri, sentio et excrucior
-
-I hate it and I love it, why would I do it, you may ask.  I do not know, but I feel that it should be done, and I am tormented
