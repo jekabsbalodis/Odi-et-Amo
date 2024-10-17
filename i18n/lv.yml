@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "Iepriekšējais"
+
+- id: next_page
+  translation: "Nākamais"
+
+- id: read_time
+  translation:
+    one : "1 min"
+    other: "{{ .Count }} min"
+
+- id: words
+  translation:
+    one : "vārds"
+    other: "{{ .Count }} vārdi"
+
+- id: toc
+  translation: "Satura rādītājs"
+
+- id: translations
+  translation: "Tulkojumi"
+
+- id: home
+  translation: "🏠"
+
+- id: edit_post
+  translation: "Labot"
+
+- id: code_copy
+  translation: "Kopēt"
+
+- id: code_copied
+  translation: "Nokopēts!"
